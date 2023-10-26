@@ -12,10 +12,33 @@ POST  {{baseUrl}}/categories
 Content-Type: application/json
 
 {
-  "name" : "New Laptop"
+  "name" : "Laptop"
 }
 
 ###
 
 # @name DeleteCategories
-DELETE   {{baseUrl}}/categories/4
+DELETE   {{baseUrl}}/categories/2
+
+###
+
+#products
+
+# @name getAllProducts
+
+GET {{baseUrl}}/products
+
+###
+# @name addNewProducts
+POST {{baseUrl}}/products
+Content-Type: application/json
+
+{
+  "name" : "Apple"
+}
+
+###
+# @name RemoveProducts
+
+DELETE  {{baseUrl}}/products/1
+
