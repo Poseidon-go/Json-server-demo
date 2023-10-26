@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Điện thoại",
+      "createArt": 123,
+      "updateArt": 1230
+    },
+    {
+      "createdAt": 1698334316550,
+      "updatedAt": 1698334316550,
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "createArt": 123,
+      "updateArt": 1230,
+      "categories": 1
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "createArt": 123,
+      "updateArt": 1230,
+      "categories": 2
+    }
+  ],
+  "profile": {
+    "name": "poseidon"
+  }
+}
