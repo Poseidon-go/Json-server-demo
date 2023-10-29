@@ -56,5 +56,6 @@ function randomProductList(n) {
   //  write db object to db.json
   fs.writeFile('db.json', JSON.stringify(db), () => {
     console.log('GENERATE DATA SUCCESSS =)))');
+    console.log('SERVER SUCCESS');
   });
 })();
