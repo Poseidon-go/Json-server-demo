@@ -43,7 +43,7 @@ function randomProductList(n) {
 // main
 (() => {
   // prepare db object
-  const categoryList = randomCategoryList(5);
+  const categoryList = randomCategoryList(10);
   const products = randomProductList(4);
   const db = {
     categories: categoryList,

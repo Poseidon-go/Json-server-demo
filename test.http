@@ -1,4 +1,4 @@
-@baseUrl = http://localhost:3000/api
+@baseUrl = https://todo-list-poseidon.vercel.app/api
 
 #categories
 
@@ -12,7 +12,7 @@ POST  {{baseUrl}}/categories
 Content-Type: application/json
 
 {
-  "name" : "Laptop"
+  "name" : "Check"
 }
 
 ###
