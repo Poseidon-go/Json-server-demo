@@ -1,1 +1,57 @@
-{"categories":[{"id":1698341701536,"name":"Beauty","createdAt":1698341701536,"updatedAt":1698341701536},{"id":1698341701536,"name":"Home","createdAt":1698341701536,"updatedAt":1698341701536},{"id":1698341701536,"name":"Computers","createdAt":1698341701536,"updatedAt":1698341701536},{"id":1698341701536,"name":"Grocery","createdAt":1698341701536,"updatedAt":1698341701536}],"products":[{"id":1698341701536,"name":"Shoes","createdAt":1698341701536,"updatedAt":1698341701536},{"id":1698341701536,"name":"Music","createdAt":1698341701536,"updatedAt":1698341701536},{"id":1698341701536,"name":"Kids","createdAt":1698341701536,"updatedAt":1698341701536},{"id":1698341701536,"name":"Movies","createdAt":1698341701536,"updatedAt":1698341701536}],"profile":{"name":"poseidon"}}
+{
+  "categories": [
+    {
+      "id": 1698424509886,
+      "name": "Games",
+      "createdAt": 1698424509887,
+      "updatedAt": 1698424509887
+    },
+    {
+      "id": 1698424509887,
+      "name": "Sports",
+      "createdAt": 1698424509887,
+      "updatedAt": 1698424509887
+    },
+    {
+      "id": 1698424509887,
+      "name": "Health",
+      "createdAt": 1698424509887,
+      "updatedAt": 1698424509887
+    },
+    {
+      "id": 1698424509887,
+      "name": "Health",
+      "createdAt": 1698424509887,
+      "updatedAt": 1698424509887
+    }
+  ],
+  "products": [
+    {
+      "id": 1698424509887,
+      "name": "Outdoors",
+      "createdAt": 1698424509887,
+      "updatedAt": 1698424509887
+    },
+    {
+      "id": 1698424509887,
+      "name": "Clothing",
+      "createdAt": 1698424509887,
+      "updatedAt": 1698424509887
+    },
+    {
+      "id": 1698424509887,
+      "name": "Beauty",
+      "createdAt": 1698424509887,
+      "updatedAt": 1698424509887
+    },
+    {
+      "id": 1698424509887,
+      "name": "Books",
+      "createdAt": 1698424509887,
+      "updatedAt": 1698424509887
+    }
+  ],
+  "profile": {
+    "name": "poseidon"
+  }
+}
