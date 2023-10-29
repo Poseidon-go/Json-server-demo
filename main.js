@@ -25,8 +25,18 @@ server.use((req, res, next) => {
   next();
 });
 
+// Add this before server.use(router)
+server.use(
+  jsonServer.rewriter({
+    '/api/*': '/$1',
+    '/blog/:resource/:id/show': '/:resource/:id',
+  }),
+);
 // Use default router
 server.use('/api', router);
 server.listen(3000, () => {
   console.log('JSON Server is running');
 });
+
+// Export the Server API
+module.exports = server;
