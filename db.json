@@ -1,54 +1,60 @@
 {
   "categories": [
     {
-      "id": 1698559790077,
-      "name": "Electronics",
-      "createdAt": 1698559790079,
-      "updatedAt": 1698559790079
+      "id": 1698570137914,
+      "name": "Toys",
+      "createdAt": 1698570137915,
+      "updatedAt": 1698570137915
     },
     {
-      "id": 1698559790079,
-      "name": "Music",
-      "createdAt": 1698559790079,
-      "updatedAt": 1698559790079
+      "id": 1698570137915,
+      "name": "Garden",
+      "createdAt": 1698570137915,
+      "updatedAt": 1698570137915
     },
     {
-      "id": 1698559790079,
-      "name": "Shoes",
-      "createdAt": 1698559790079,
-      "updatedAt": 1698559790079
+      "id": 1698570137915,
+      "name": "Home",
+      "createdAt": 1698570137915,
+      "updatedAt": 1698570137915
     },
     {
-      "id": 1698559790079,
-      "name": "Beauty",
-      "createdAt": 1698559790079,
-      "updatedAt": 1698559790079
+      "id": 1698570137915,
+      "name": "Baby",
+      "createdAt": 1698570137916,
+      "updatedAt": 1698570137916
+    },
+    {
+      "id": 1698570137916,
+      "name": "Outdoors",
+      "createdAt": 1698570137916,
+      "updatedAt": 1698570137916
     }
   ],
   "products": [
     {
-      "id": 1698559790079,
-      "name": "Baby",
-      "createdAt": 1698559790079,
-      "updatedAt": 1698559790079
+      "id": 1698570137916,
+      "name": "Movies",
+      "createdAt": 1698570137916,
+      "updatedAt": 1698570137916
     },
     {
-      "id": 1698559790079,
-      "name": "Health",
-      "createdAt": 1698559790079,
-      "updatedAt": 1698559790079
+      "id": 1698570137916,
+      "name": "Electronics",
+      "createdAt": 1698570137916,
+      "updatedAt": 1698570137916
     },
     {
-      "id": 1698559790079,
+      "id": 1698570137916,
+      "name": "Automotive",
+      "createdAt": 1698570137916,
+      "updatedAt": 1698570137916
+    },
+    {
+      "id": 1698570137916,
       "name": "Grocery",
-      "createdAt": 1698559790079,
-      "updatedAt": 1698559790079
-    },
-    {
-      "id": 1698559790079,
-      "name": "Jewelery",
-      "createdAt": 1698559790079,
-      "updatedAt": 1698559790079
+      "createdAt": 1698570137916,
+      "updatedAt": 1698570137916
     }
   ],
   "profile": {
