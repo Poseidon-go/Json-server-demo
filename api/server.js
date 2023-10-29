@@ -18,20 +18,18 @@ server.use((req, res, next) => {
   if (req.method === 'POST') {
     req.body.createdAt = Date.now();
     req.body.updatedAt = Date.now();
-  } else if (req.method === 'GET') {
-    console.log('Get success');
   }
   // Continue to JSON Server router
   next();
 });
 
 // Add this before server.use(router)
-server.use(
-  jsonServer.rewriter({
-    '/api/*': '/$1',
-    '/blog/:resource/:id/show': '/:resource/:id',
-  }),
-);
+// server.use(
+//   jsonServer.rewriter({
+//     '/api/*': '/$1',
+//     '/blog/:resource/:id/show': '/:resource/:id',
+//   }),
+// );
 // Use default router
 server.use('/api', router);
 server.listen(3000, () => {
