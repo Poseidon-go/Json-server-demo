@@ -1,1 +1,93 @@
-{"categories":[{"id":1698573703602,"name":"Clothing","createdAt":1698573703603,"updatedAt":1698573703603},{"id":1698573703603,"name":"Computers","createdAt":1698573703603,"updatedAt":1698573703603},{"id":1698573703603,"name":"Health","createdAt":1698573703603,"updatedAt":1698573703603},{"id":1698573703603,"name":"Movies","createdAt":1698573703603,"updatedAt":1698573703603},{"id":1698573703603,"name":"Toys","createdAt":1698573703603,"updatedAt":1698573703603},{"id":1698573703603,"name":"Electronics","createdAt":1698573703603,"updatedAt":1698573703603},{"id":1698573703603,"name":"Books","createdAt":1698573703603,"updatedAt":1698573703603},{"id":1698573703603,"name":"Electronics","createdAt":1698573703603,"updatedAt":1698573703603},{"id":1698573703603,"name":"Shoes","createdAt":1698573703603,"updatedAt":1698573703603},{"id":1698573703603,"name":"Health","createdAt":1698573703603,"updatedAt":1698573703603}],"products":[{"id":1698573703603,"name":"Toys","createdAt":1698573703603,"updatedAt":1698573703603},{"id":1698573703603,"name":"Sports","createdAt":1698573703603,"updatedAt":1698573703603},{"id":1698573703603,"name":"Health","createdAt":1698573703603,"updatedAt":1698573703603},{"id":1698573703603,"name":"Shoes","createdAt":1698573703603,"updatedAt":1698573703603}],"profile":{"name":"poseidon"}}
+{
+  "categories": [
+    {
+      "id": 1698689452195,
+      "name": "Books",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    },
+    {
+      "id": 1698689452196,
+      "name": "Garden",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    },
+    {
+      "id": 1698689452196,
+      "name": "Books",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    },
+    {
+      "id": 1698689452196,
+      "name": "Tools",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    },
+    {
+      "id": 1698689452196,
+      "name": "Toys",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    },
+    {
+      "id": 1698689452196,
+      "name": "Beauty",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    },
+    {
+      "id": 1698689452196,
+      "name": "Games",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    },
+    {
+      "id": 1698689452196,
+      "name": "Grocery",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    },
+    {
+      "id": 1698689452196,
+      "name": "Industrial",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    },
+    {
+      "id": 1698689452196,
+      "name": "Sports",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    }
+  ],
+  "products": [
+    {
+      "id": 1698689452196,
+      "name": "Health",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    },
+    {
+      "id": 1698689452196,
+      "name": "Shoes",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    },
+    {
+      "id": 1698689452196,
+      "name": "Outdoors",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    },
+    {
+      "id": 1698689452196,
+      "name": "Tools",
+      "createdAt": 1698689452196,
+      "updatedAt": 1698689452196
+    }
+  ],
+  "profile": {
+    "name": "poseidon"
+  }
+}
